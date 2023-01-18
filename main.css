@@ -1,0 +1,83 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #FBDEA2;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #FBDEA2;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #ffeae6;
+}
+
+.section-title {
+    font-family: 'Pacifico', cursive;
+    margin-top: 8px;
+}
+
+.section-title span {
+    color: #FBDEA2;
+}
+
+#sobre-a-floricultura,
+#cardapio {
+    background-color: #fcf4e3;
+}
+
+.imgs {
+    height: 350px;
+    object-fit: cover;
+    width: 100%;
+}
+
+.text-colored {
+    color: #FBDEA2;
+}
+
+.nav-cardapio .nav-link.active {
+    background-color: #FBDEA2;
+    color: #fff;
+}
+
+.nav-cardapio .nav-link:hover {
+    color: #FBDEA2;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links li a {
+    text-decoration: none;
+}
+
+#fale-conosco button {
+    background-color: #FBDEA2;
+    color: #fff;
+}
+
+.imgs_eventos {
+    height: 296px;
+    object-fit: cover;
+    width: 100%;
+    border-radius: 10px;
+}
+
+.imgs_cardapio {
+    height: 120px;
+    width: 176px;
+    object-fit: cover;
+}
